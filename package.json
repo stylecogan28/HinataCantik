@@ -1,5 +1,5 @@
 {
-  "name": "XBOT",
+  "name": "HinataCantik",
   "version": "1.0.0",
   "description": "Termux only",
   "main": "index.js",
@@ -29,15 +29,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/affisjunianto/botwasap.git"
+    "url": "https://github.com/stylecogan28/HinataCantik.git"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Stylecogan28",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/affisjunianto/botwasap/issues"
+    "url": "https://github.com/stylecogan28/HinataCantik/issues"
   },
-  "homepage": "https://github.com/affisjunianto/botwasap#readme"
+  "homepage": "https://github.com/stylecogan28/HinataCantik#readme"
 }
