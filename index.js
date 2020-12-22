@@ -1,4 +1,4 @@
-const  XBOT = 'HinataCantik'; // Nama Bot Whatsapp
+const  XBOT = '▀▄▀▄ᖽᐸᗩᑘᘻ ᕼᗩᒪᑘ√▄▀▄▀'; // Nama Bot Whatsapp
 const instagram = 'https://instagram.com/Cogan_112'; // Nama Instagramlu cok
 const nomer = 'https://Wa.me/+6289509938750'; // Nomor whatsapplu cok
 const aktif = 'Tergantung kuota'; // Kapan bot lu aktif
